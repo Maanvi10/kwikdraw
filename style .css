@@ -1,0 +1,18 @@
+body{
+    background-color: #ffd0de;
+}
+
+#score{
+    font-size: 40px;
+    margin-left: 30px;
+}
+
+#timer{
+    font-size: 40px;
+    float: right;
+    margin-right: 30px;
+} 
+
+#sketchtodraw{
+    text-decoration-color: crimson;
+}
